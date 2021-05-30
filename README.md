@@ -1,6 +1,6 @@
 # httprofile
 
-NOTE: This was originally a project for a Cloudflare assignment, but I like this project so I'm reuploading it as a public repo. I deleted the old commit history because it reveals private information.
+NOTE: This was originally a project for a job application assignment, but I like this project so I'm reuploading it as a public repo. I deleted the old commit history because it reveals private information.
 
 ## Prerequisites
 
